@@ -126,12 +126,50 @@ p{
 
 .three{
     background-color: #e5e7eb;
-    width: 70vw;
-    padding: 16px 15vw;
+    width: 50vw;
+    padding: 16px 25vw;
 }
 .three .name{
     font-weight: bold;
     text-align: right;
     font-size: 20px;
 
+}
+
+.four {
+    background-color: #3882F6;
+    display: flex;
+    color: #F9FAF8;
+    width: 50vw;
+    padding: 30px 7vw;
+    margin: 50px 13vw;
+    justify-content: space-between;
+    border-radius: 10px;
+    align-items: center;
+}
+.four-one {
+    text-align: left;
+}
+.four-one .four-head{
+    font-size: 24px;
+    margin: 0px;
+    text-align: left;
+}
+.four button{
+ 
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 5px 30px;
+    border-radius: 5px;
+    border:2px solid #F9FAF8;
+    font-size: 18px;
+    margin-top: 8px;
+
+}
+.footer{
+    background-color: #1f2937;
+    color:#F9FAF8;
+    text-align: center;
+    width: 100vw;
+    padding: 10px 0px;
 }
